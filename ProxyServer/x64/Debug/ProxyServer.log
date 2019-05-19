@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ProxyServer.cpp
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(140): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(64): warning C4101: 'page': unreferenced local variable
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(213): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(217): error C4716: 'getHostFromRequest': must return a value
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(96): error C4700: uninitialized local variable 'host' used
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(106): error C4700: uninitialized local variable 'get' used
+D:\Learning\PROJECT\SOCKET_PROXY\ProxyServer\ProxyServer\ProxyServer.cpp(137): error C4700: uninitialized local variable 'res' used
